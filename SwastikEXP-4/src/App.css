@@ -1,0 +1,15 @@
+/* thoda design bhi daal dete h warna project udaas lagega */
+
+.container {
+text-align: center;
+font-family: Arial, sans-serif;
+}
+
+.card {
+width: 250px;
+margin: 15px auto;
+padding: 15px;
+border-radius: 10px;
+box-shadow: 0 0 8px gray;
+background-color: #f9f9f9;
+}
